@@ -1,0 +1,5 @@
+<!--C:\sandhills\SandhillsSoftware\Framework\Framework\Trunk\Framework\Sandhills.Framework.vbproj-->
+<PackageReference Include="System.Web.Http" />
+
+<!--C:\sandhills\SandhillsSoftware\Framework\Framework\Trunk\Framework.UnitTests\Sandhills.Framework.UnitTests.vbproj-->
+
